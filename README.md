@@ -9,7 +9,11 @@ To select an option, press the key associated with the action you want to make e
 Main menu
 1) Park a vehicle -  Gives you option to park a either a car or mc.
 2) Relocate vehicles - Gives you the option to move vehicle/vehicles to a different parkingspot/parkingspots.
-3) Search for a vehicle
+3) Search for a vehicle by regristration number - Search for a vehicle with a registration number.
+Q) Quit - Exits the program
+5) Print the array - Prints out all parking spaces with empty and full spaces. 
+
+
 
 
 
