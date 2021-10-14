@@ -13,6 +13,23 @@ Main menu
 Q) Quit - Exits the program
 5) Print the array - Prints out all parking spaces with empty and full spaces. 
 
+# Park a vehicle
+
+1. Press 1 on keyboard
+2. Enter type of vehicle
+3. Enter registration number of the vehicle.
+4. If you're done parking press y otherwise press n and repeat steps 2 & 3 till you're done.
+5. Done
+
+# Move a vehicle from one parking space to another
+
+1. Press 2 on keyboard 
+2. Enter type of vehicle
+3. Enter registration number
+4. Press y to move that vehicle 
+5. Enter the parkingspot the vehicle shoudl move to
+6. Done
+
 
 
 
