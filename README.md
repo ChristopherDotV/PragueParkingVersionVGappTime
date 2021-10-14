@@ -1,6 +1,6 @@
 # Parking mangement software for parking spaces (PMSP)
 
-# DISCLAIMER!!
+# DISCLAIMER
 This software was specifiaclly developed for mangement of parking space in Prague.
 Other uses may cause issues and do at your own risk. Development team will not take any responsibility in case of financial loss or damages.
 Please do not copy our code without contacting us. It will hurt our feelings. 
